@@ -1,0 +1,41 @@
+1) Visakhapatnam
+2) Tirupati
+3) Chennai
+4) Bangalore
+5) Nashik
+6) Bhagalpur
+7) Kolkata
+8) Delhi
+9) Patna
+10) Jabalpur
+
+STATES:
+
+Andhra Pradesh - Visakhapatnam, Tirupati
+Assam
+Bihar - Patna, Bhagalpur
+Chhattisgarh
+Goa
+Gujarat
+Haryana
+Himachal Pradesh
+Jharkhand
+Karnataka - Bengaluru
+Kerala
+Maharashtra - Nashik, Trimbak
+Madhya Pradesh - Jabalpur
+Odisha
+Punjab
+Rajasthan
+Tamil Nadu - Chennai
+Telangana - Hyderabad
+Uttar Pradesh - 
+Uttarakhand - Mussorie, Dehradun
+West Bengal - Kolkata
+Andaman & Nicobar (UT)
+Chandigarh (UT)
+Delhi [National Capital Territory (NCT)] - Noida
+Jammu & Kashmir (UT)
+Ladakh (UT)
+Lakshadweep (UT)
+Puducherry (UT)
